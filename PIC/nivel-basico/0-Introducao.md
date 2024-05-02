@@ -15,19 +15,14 @@ Esses microcontroladores são populares devido à facilidade de programação, a
     - **Registros de Função Especial:** Controlam periféricos e funções específicas.
     - **ROM (Memória Somente Leitura)**: Contém o programa principal.
     - **EEPROM (Memória Somente Leitura Programável Apagável Eletricamente):** Armazena dados permanentes.
-    - Memória Flash: Permite reprogramação.
+    - **Memória Flash:** Permite reprogramação.
 - **Pilha:** Salva endereços de retorno.
 - **Portas I/O:** Para comunicação com dispositivos externos.
-Temporizadores/Contadores: Gerenciam eventos temporais.
+- **Temporizadores/Contadores:** Gerenciam eventos temporais.
 - **Interrupções:** Permitem resposta a eventos externos.
 Comunicação em Série: Suporta protocolos como SPI, CAN e UART.
 - **Osciladores:** Geram sinais de clock.
 - **Módulo PCC:** Usado para captura/comparação/PWM.
-## Aplicações dos Microcontroladores PIC:
-Luz de rua ativada por movimento de veículo.
-Sistemas de controle de computador.
-Sistemas de alarme.
-Dispositivos embarcados.
 ## Vantagens dos Microcontroladores PIC:
 Baixo consumo de energia.
 Alto desempenho.
